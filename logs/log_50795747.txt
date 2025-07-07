@@ -1,0 +1,37 @@
+
+Hyperparameter info: 2025-06-24 16:09:07.327414
+
+Message: Str to Drone, Fuse: Mean stack
+img_encoder: openai/clip-vit-base-patch32
+sd_pipeline: CompVis/stable-diffusion-v1-4
+save_model: False
+save_model_dir: /home/fahimul/Documents/Research/MIDuff/trained_pipeline
+dataset_path: /home/fahimul/Documents/Research/Dataset/University-1651
+num_of_encoder_img: 10
+batch: 1
+device: cuda
+cuda_set_device: 1
+exp_id: 50795747
+save_inference_dir: /home/fahimul/Documents/Research/MIDuff/output
+num_inference_steps: 50
+infer_height: 224
+infer_width: 224
+epochs: 150
+lr: 1e-05
+noise_time_step: 1000
+
+
+
+Training starts
+
+Loss_on_epoch:1=>0.4004630148410797
+
+Loss_on_epoch:2=>0.3141363263130188
+
+Loss_on_epoch:3=>0.3709678649902344
+
+Loss_on_epoch:4=>0.3038960099220276
+
+Loss_on_epoch:5=>0.26519137620925903
+
+Loss_on_epoch:6=>0.23958906531333923

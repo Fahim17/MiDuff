@@ -1,0 +1,173 @@
+
+Hyperparameter info: 2025-07-01 20:14:36.353320
+
+Message: Drone to satellite, Fuse: Mean stack
+img_encoder: openai/clip-vit-base-patch32
+sd_pipeline: CompVis/stable-diffusion-v1-4
+save_model: True
+save_model_dir: /home/fahimul/Documents/Research/MIDuff/trained_pipeline
+dataset_path: /home/fahimul/Documents/Research/Dataset/University-1651
+num_of_encoder_img: 5
+batch: 1
+device: cuda
+cuda_set_device: 0
+exp_id: 51415276
+save_inference_dir: /home/fahimul/Documents/Research/MIDuff/output
+num_inference_steps: 50
+infer_height: 224
+infer_width: 224
+epochs: 50
+lr: 1e-05
+noise_time_step: 1000
+
+
+
+Training starts
+
+Loss_on_epoch:1=>0.21640509366989136
+
+Loss_on_epoch:2=>0.21711507439613342
+
+pipeline_saved_on_epoch:3
+
+Loss_on_epoch:3=>0.2100338637828827
+
+Loss_on_epoch:4=>0.2221115082502365
+
+Loss_on_epoch:5=>0.21443694829940796
+
+pipeline_saved_on_epoch:6
+
+Loss_on_epoch:6=>0.206099271774292
+
+Loss_on_epoch:7=>0.20639869570732117
+
+Loss_on_epoch:8=>0.21789471805095673
+
+Loss_on_epoch:9=>0.21773038804531097
+
+Loss_on_epoch:10=>0.21096210181713104
+
+Loss_on_epoch:11=>0.2176075130701065
+
+Loss_on_epoch:12=>0.22414007782936096
+
+Loss_on_epoch:13=>0.21072034537792206
+
+Loss_on_epoch:14=>0.21799226105213165
+
+Loss_on_epoch:15=>0.20746341347694397
+
+Loss_on_epoch:16=>0.2171637862920761
+
+pipeline_saved_on_epoch:17
+
+Loss_on_epoch:17=>0.2052180916070938
+
+Loss_on_epoch:18=>0.2064388543367386
+
+pipeline_saved_on_epoch:19
+
+Loss_on_epoch:19=>0.20426350831985474
+
+pipeline_saved_on_epoch:20
+
+Loss_on_epoch:20=>0.20287494361400604
+
+pipeline_saved_on_epoch:21
+
+Loss_on_epoch:21=>0.192194402217865
+
+Loss_on_epoch:22=>0.2046709507703781
+
+Loss_on_epoch:23=>0.19392719864845276
+
+Loss_on_epoch:24=>0.20621757209300995
+
+Loss_on_epoch:25=>0.2192886471748352
+
+Loss_on_epoch:26=>0.21347378194332123
+
+Loss_on_epoch:27=>0.21071183681488037
+
+Loss_on_epoch:28=>0.21255815029144287
+
+Loss_on_epoch:29=>0.20972318947315216
+
+Loss_on_epoch:30=>0.21939609944820404
+
+Loss_on_epoch:31=>0.19876737892627716
+
+Loss_on_epoch:32=>0.20163288712501526
+
+Loss_on_epoch:33=>0.19999104738235474
+
+Loss_on_epoch:34=>0.2196531891822815
+
+Loss_on_epoch:35=>0.21899744868278503
+
+Loss_on_epoch:36=>0.20775087177753448
+
+Loss_on_epoch:37=>0.21357537806034088
+
+Loss_on_epoch:38=>0.1990160048007965
+
+Loss_on_epoch:39=>0.21051543951034546
+
+Loss_on_epoch:40=>0.21101801097393036
+
+Loss_on_epoch:41=>0.21201084554195404
+
+Loss_on_epoch:42=>0.21018566191196442
+
+Loss_on_epoch:43=>0.20922042429447174
+
+Loss_on_epoch:44=>0.20909960567951202
+
+Loss_on_epoch:45=>0.20469000935554504
+
+Loss_on_epoch:46=>0.20579496026039124
+
+Loss_on_epoch:47=>0.19749440252780914
+
+Loss_on_epoch:48=>0.2224963754415512
+
+Loss_on_epoch:49=>0.1995302438735962
+
+Loss_on_epoch:50=>0.20493154227733612
+
+Training Ends: 2025-07-01 22:42:47.231529
+
+Creating inference for:51415276=>
+
+Training Stage 2 starts
+
+Training Stage 2 starts
+
+Training Stage 2 starts
+
+SampleGeo: [0. 0. 0. 0.]
+
+Mine: [0.14265335 0.99857347 1.14122682 0.99857347]
+
+ChatGPT: {'Top-1': 0.0014265335630625486, 'Top-5': 0.009985734708607197, 'Top-10': 0.011412268504500389}
+
+----------Training Stage 2 Start----------
+
+----------Training Stage 2 Start----------
+
+Trainable Parameters: 8,483
+
+
+Stage 2 Loss_on_epoch:1=>0.0
+
+Stage 2 Loss_on_epoch:2=>0.0
+
+----------Training Stage 2 Start----------
+
+Trainable Parameters: 8,483
+
+
+Creating inference for:51415276=>
+
+Creating inference for:51415276=>

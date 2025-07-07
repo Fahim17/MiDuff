@@ -1,0 +1,27 @@
+
+Hyperparameter info: 2025-07-01 19:50:33.660820
+
+Message: Drone to satellite, Fuse: Mean stack
+img_encoder: openai/clip-vit-base-patch32
+sd_pipeline: CompVis/stable-diffusion-v1-4
+save_model: True
+save_model_dir: /home/fahimul/Documents/Research/MIDuff/trained_pipeline
+dataset_path: /home/fahimul/Documents/Research/Dataset/University-1651
+num_of_encoder_img: 5
+batch: 1
+device: cuda
+cuda_set_device: 0
+exp_id: 51413833
+save_inference_dir: /home/fahimul/Documents/Research/MIDuff/output
+num_inference_steps: 50
+infer_height: 224
+infer_width: 224
+epochs: 2
+lr: 1e-05
+noise_time_step: 1000
+
+
+
+Training starts
+
+Training starts

@@ -1,0 +1,111 @@
+
+Hyperparameter info: 2025-06-24 16:10:00.261506
+
+Message: Str to Drone, Fuse: Mean stack
+img_encoder: openai/clip-vit-base-patch32
+sd_pipeline: CompVis/stable-diffusion-v1-4
+save_model: False
+save_model_dir: /home/fahimul/Documents/Research/MIDuff/trained_pipeline
+dataset_path: /home/fahimul/Documents/Research/Dataset/University-1651
+num_of_encoder_img: 10
+batch: 1
+device: cuda
+cuda_set_device: 1
+exp_id: 50795800
+save_inference_dir: /home/fahimul/Documents/Research/MIDuff/output
+num_inference_steps: 50
+infer_height: 224
+infer_width: 224
+epochs: 150
+lr: 1e-05
+noise_time_step: 1000
+
+
+
+Training starts
+
+Loss_on_epoch:1=>0.19453607499599457
+
+Loss_on_epoch:2=>0.285857230424881
+
+Loss_on_epoch:3=>0.16117791831493378
+
+Loss_on_epoch:4=>0.22272054851055145
+
+Loss_on_epoch:5=>0.24276752769947052
+
+Loss_on_epoch:6=>0.16122816503047943
+
+Loss_on_epoch:7=>0.3120671808719635
+
+Loss_on_epoch:8=>0.12397436797618866
+
+Loss_on_epoch:9=>0.26775461435317993
+
+Loss_on_epoch:10=>0.29632896184921265
+
+Loss_on_epoch:11=>0.20029553771018982
+
+Loss_on_epoch:12=>0.14794519543647766
+
+Loss_on_epoch:13=>0.21441133320331573
+
+Loss_on_epoch:14=>0.2563857138156891
+
+Loss_on_epoch:15=>0.1686757504940033
+
+Loss_on_epoch:16=>0.18707850575447083
+
+Loss_on_epoch:17=>0.3039700388908386
+
+Loss_on_epoch:18=>0.2604719400405884
+
+Loss_on_epoch:19=>0.16652131080627441
+
+Loss_on_epoch:20=>0.1876559853553772
+
+Loss_on_epoch:21=>0.3159692883491516
+
+Loss_on_epoch:22=>0.27407798171043396
+
+Loss_on_epoch:23=>0.20826490223407745
+
+Loss_on_epoch:24=>0.1984594613313675
+
+Loss_on_epoch:25=>0.1876339614391327
+
+Loss_on_epoch:26=>0.31713616847991943
+
+Loss_on_epoch:27=>0.17024919390678406
+
+Loss_on_epoch:28=>0.17062516510486603
+
+Loss_on_epoch:29=>0.22473576664924622
+
+Loss_on_epoch:30=>0.19209101796150208
+
+Loss_on_epoch:31=>0.26607680320739746
+
+Loss_on_epoch:32=>0.15165674686431885
+
+Loss_on_epoch:33=>0.23740950226783752
+
+Loss_on_epoch:34=>0.21562358736991882
+
+Loss_on_epoch:35=>0.21445102989673615
+
+Loss_on_epoch:36=>0.29958873987197876
+
+Loss_on_epoch:37=>0.18192584812641144
+
+Loss_on_epoch:38=>0.21007251739501953
+
+Loss_on_epoch:39=>0.25728079676628113
+
+Loss_on_epoch:40=>0.37408068776130676
+
+Loss_on_epoch:41=>0.24144640564918518
+
+Loss_on_epoch:42=>0.23473092913627625
+
+Loss_on_epoch:43=>0.22978565096855164
